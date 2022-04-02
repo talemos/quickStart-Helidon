@@ -48,7 +48,7 @@ spec:
     spec:
       containers:
       - name: helidon-quickstart-se
-        image: sa-saopaulo-1.ocir.io/grri30nzv1ul/talemos/helidon/helidonmicro:latest
+        image: us-ashburn-1.ocir.io/grri30nzv1ul/talemos/helidon/helidonmicro:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
