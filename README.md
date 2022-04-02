@@ -1,7 +1,7 @@
 # Helidon Quickstart SE Example
 
 This project implements a simple Hello World REST service using Helidon SE.
- Have Fun :)
+Have Fun :)
 
 ## Build and run
 
