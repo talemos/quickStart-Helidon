@@ -15,7 +15,7 @@
 #
 
 app:
-  greeting: "Ola"
+  greeting: "Hello"
 
 server:
   port: 8080
