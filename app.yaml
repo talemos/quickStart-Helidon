@@ -53,5 +53,5 @@ spec:
         ports:
         - containerPort: 8080
       imagePullSecrets:
-        - name: regcred
+        - name: ocirsecret
 ---
